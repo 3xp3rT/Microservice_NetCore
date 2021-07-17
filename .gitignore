@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/Services/Catelog/Catelog.API/bin/Debug/net5.0
+/Services/Catelog/Catelog.API/obj
